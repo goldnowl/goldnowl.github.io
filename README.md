@@ -1,15 +1,16 @@
-##### @Silicon Valley
+
+
 <img src="https://github.com/user-attachments/assets/b3f00f9e-983e-4cd1-9613-05b4e847ae68" width="100">
 
 ##### Hello, 🌍
 
-> I am a Søftware ∑ngineer at ❤️ 
+> I am a Søftware ∑ngineer @ ❤️ (Silicon Valley)
 
 ##### Education
 
-> Masters, Computer Science - USC
+> Masters, Computer Science - USC ✌️
 
-> Bachelors, Computer Engineering - MIT
+> Bachelors, Computer Engineering - MIT 🌐 
 
 ##### Work
 
@@ -18,7 +19,9 @@
 ##### Hobbies
 
 > Travel 🤠
+
 > Golf ⛳️
+
 > Hiking 🗻
 
 ##### Favorite Qoute
