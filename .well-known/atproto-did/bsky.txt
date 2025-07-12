@@ -1,1 +1,0 @@
-did:plc:sw2cha6geasiw7bvpksgg3lj
