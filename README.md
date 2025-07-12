@@ -1,5 +1,4 @@
 
-
 <img src="https://github.com/user-attachments/assets/b3f00f9e-983e-4cd1-9613-05b4e847ae68" width="100">
 
 ##### Hello, 🌍
@@ -24,7 +23,7 @@
 
 > Hiking 🗻
 
-##### Favorite Qoute
+##### My Favorite Qoute
 ```
-Concern for Good for Others is Necessary to Live a Complete Life* ☘️ - Aristotle
+Concern for Good for Others is Necessary to Live a Complete Life ☘️
 ```
