@@ -12,7 +12,7 @@ I am a Søftware ∑ngineer at ❤️
 
 ### Work
 
-- Building tools & apps to solve problems in our day to day life 🍀
+- Building tools & apps to solve problems in our day to day life 
 
 ### Hobbies
 
@@ -20,3 +20,5 @@ I am a Søftware ∑ngineer at ❤️
 - Golf ⛳️
 - Hiking 🗻
 
+##### Favorite Qoute
+*Concern for Good for Others is Necessary to Live a Complete Life* ☘️ - **Aristotle**
