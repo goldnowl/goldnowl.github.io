@@ -13,7 +13,7 @@
 
 ##### Work
 
-> Building tools & apps to solve problems in our day to day life 
+> Building tools 🔧 & apps 📲 to solve problems in our day to day life ☘️
 
 ##### Hobbies
 
