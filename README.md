@@ -3,22 +3,23 @@
 
 ##### Hello, 🌍
 
-I am a Søftware ∑ngineer at ❤️ 
+> I am a Søftware ∑ngineer at ❤️ 
 
 ##### Education
 
-- Masters, Computer Science - USC 
-- Bachelors, Computer Engineering - MIT
+> Masters, Computer Science - USC
+
+> Bachelors, Computer Engineering - MIT
 
 ##### Work
 
-- Building tools & apps to solve problems in our day to day life 
+> Building tools & apps to solve problems in our day to day life 
 
 ##### Hobbies
 
-- Travel 🤠
-- Golf ⛳️
-- Hiking 🗻
+> Travel 🤠
+> Golf ⛳️
+> Hiking 🗻
 
 ##### Favorite Qoute
 ```
