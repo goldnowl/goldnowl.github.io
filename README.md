@@ -19,7 +19,7 @@
 
 ##### Hobbies
 
-> Travel 🤠
+> Travel 🛫
 
 > Golf ⛳️
 
