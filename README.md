@@ -15,7 +15,7 @@
 
 ##### Work
 
-> Building tools 🔧 & apps 📲 to solve problems in our day to day life ☘️
+> Building tools 🔧 & apps 📲 to solve problems in our day to day life 🍀
 
 ##### Hobbies
 
@@ -29,5 +29,5 @@
 
 ##### My Favorite Qoute
 ```
-Concern for Good for Others is Necessary to Live a Complete Life ☘️
+Concern for Good for Others is Necessary to Live a Complete Life 🍀
 ```
