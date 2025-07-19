@@ -10,6 +10,7 @@ html, body {
   position: relative;
   width: 80vmin;
   height: 80vmin;
+  transform: scale(.5);
 }
 
 .cartoon div {
@@ -94,12 +95,12 @@ html, body {
 
 @keyframes wingTopFlap1 {
   0%, 100% { transform: rotate(-12deg) rotate3d(0, 0, 0, 10deg); }
-  50% { transform: rotate(-12deg) rotate3d(0, 1, 0, 10deg); }
+  50% { transform: rotate(-12deg) rotate3d(0, 1, 0, 50deg); }
 }
 
 @keyframes wingTopFlap2 {
   0%, 100% { transform: scaleX(-1) rotate(-12deg) rotate3d(0, 0, 0, 10deg); }
-  50% { transform: scaleX(-1) rotate(-12deg) rotate3d(0, 1, 0, 10deg); }
+  50% { transform: scaleX(-1) rotate(-12deg) rotate3d(0, 1, 0, 50deg); }
 }
 
 .wing-top {
@@ -160,12 +161,12 @@ html, body {
 
 @keyframes wingBottomFlap1 {
   0%, 100% { transform: rotate(55deg) rotate3d(0, 0, 0, 10deg); }
-  50% { transform: rotate(55deg) rotate3d(0, 1, 0, 10deg); }
+  50% { transform: rotate(55deg) rotate3d(1, 1, 0, 50deg); }
 }
 
 @keyframes wingBottomFlap2 {
   0%, 100% { transform: scaleX(-1) rotate(55deg) rotate3d(0, 0, 0, 10deg); }
-  50% { transform: scaleX(-1) rotate(55deg) rotate3d(0, 1, 0, 10deg); }
+  50% { transform: scaleX(-1) rotate(55deg) rotate3d(1, 1, 0, 50deg); }
 }
 
 .wing-bottom {
