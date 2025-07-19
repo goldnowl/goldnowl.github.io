@@ -8,11 +8,12 @@ html, body {
 }
 
 .cartoon {
-  position: relative;
-  width: 80vmin;
-  height: 80vmin;
-  transform: scale(.1);
-  margin-top: -69%;
+  position: absolute;
+  width: 69vmin;
+  height: 69vmin;
+  transform: scale(.3);
+  margin-top: -69px;
+  margin-left: 69px;
 }
 
 .cartoon div {
