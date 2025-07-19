@@ -11,7 +11,7 @@ html, body {
   position: relative;
   width: 80vmin;
   height: 80vmin;
-  transform: scale(.3);
+  transform: scale(.1);
   margin-top: -69%;
 }
 
