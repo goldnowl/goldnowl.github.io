@@ -12,6 +12,7 @@ html, body {
   width: 80vmin;
   height: 80vmin;
   transform: scale(.3);
+  margin-top: -69%;
 }
 
 .cartoon div {
