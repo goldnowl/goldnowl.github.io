@@ -8,9 +8,9 @@
 
 ##### Education
 
-> Masters, Computer Science - USC <img width="15" height="15" alt="USC_Trojan_Logo" src="https://github.com/user-attachments/assets/2268e526-942c-4d4b-84f4-08584a948b1a" />
+> MS, Computer Science - USC <img width="15" height="15" alt="USC_Trojan_Logo" src="https://github.com/user-attachments/assets/2268e526-942c-4d4b-84f4-08584a948b1a" />
 
-> Bachelors, Computer Engineering - MIT <img width="15" height="15" alt="MIT_Logo" src="https://github.com/user-attachments/assets/2adb1d9b-62c2-4393-8c21-56c0c1f4b05c" />
+> BE, Computer Engineering - MIT <img width="15" height="15" alt="MIT_Logo" src="https://github.com/user-attachments/assets/2adb1d9b-62c2-4393-8c21-56c0c1f4b05c" />
 
 
 ##### Work
