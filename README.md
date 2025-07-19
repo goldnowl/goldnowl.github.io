@@ -31,7 +31,7 @@
 ```
 Concern for Good for Others is Necessary to Live a Complete Life 🍀
 ```
-
+<p align="left">
 <div class="cartoon hb">
   <div class="wing-bottom ha hb"></div>
   <div class="wing-top ha hb">
@@ -44,3 +44,4 @@ Concern for Good for Others is Necessary to Live a Complete Life 🍀
   <div class="body r ha hb"></div>
   <div class="antenna r ha hb"></div>
 </div>
+</p
