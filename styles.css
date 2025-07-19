@@ -10,7 +10,7 @@ html, body {
   position: relative;
   width: 80vmin;
   height: 80vmin;
-  transform: scale(.1) rotate(-45deg);
+  transform: scale(.5);
 }
 
 .cartoon div {
