@@ -27,6 +27,11 @@
 
 > Pool 🌊
 
+##### My Favorite Qoute
+```
+Concern for Good for Others is Necessary to Live a Complete Life 🍀
+```
+
 <p align="center">
   <div class="cartoon hb">
     <div class="wing-bottom ha hb"></div>
@@ -41,9 +46,3 @@
     <div class="antenna r ha hb"></div>
   </div>
 </p>
-
-
-##### My Favorite Qoute
-```
-Concern for Good for Others is Necessary to Live a Complete Life 🍀
-```
