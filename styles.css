@@ -116,8 +116,8 @@ html, body {
   transform-origin: right bottom;
   transform: rotate(-12deg);
   box-shadow: 
-    inset 6.9vmin .69vmin 0 .69vmin,
-    inset -.69vmin 0 0 .69vmin;
+    inset 1.69vmin 1.69vmin 0 1.69vmin,
+    inset -1.69vmin 0 0 1.69vmin;
   animation: wingTopFlap1 2s linear infinite;
   overflow: hidden;
 }
@@ -129,7 +129,7 @@ html, body {
   transform: rotate(31deg);
   left: 31%;
   top: -6.9%;
-  box-shadow: inset .69vmin -.69vmin;
+  box-shadow: inset 1.69vmin -1.69vmin;
 }
 
 .wing-top::before {
@@ -138,7 +138,7 @@ html, body {
   transform: rotate(0deg);
   top: 69%;
   border-radius: 69% 69% 69% 69%;
-  box-shadow: -.69vmin -0.69vmin 0 .69vmin;
+  box-shadow: -1.69vmin -1.69vmin 0 1.69vmin;
 }
 
 .wing-top ~ .wing-top {
@@ -154,12 +154,12 @@ html, body {
   color: gold;
   left: 5%;
   top: 10%;
-  box-shadow: -0.5vmin 3vmin,
-    -0.5vmin 6vmin 0 0.125vmin,
-    1.5vmin -2.25vmin gold,
-    3.5vmin -3vmin 0 -0.5vmin,
-    18vmin 7vmin 0 2vmin gold,
-    7.25vmin 0 3vmin
+  box-shadow: -6.9vmin 1.69vmin,
+    -1.69vmin 6.9vmin 0 -.169vmin,
+    1.69vmin -1.69vmin gold,
+    1.69vmin -6.9vmin 0 -1.69vmin,
+    16.9vmin 6.9vmin 0 1.69vmin teal,
+    6.9vmin 0 1.69vmin
 }
 
 @keyframes wingBottomFlap1 {
@@ -181,7 +181,7 @@ html, body {
   transform: rotate(55deg);
   top: 59%;
   left: 27.5%;
-  box-shadow: inset 1vmin -2vmin 0 0.5vmin;
+  box-shadow: inset inset 1.69vmin -1.69vmin 0 1.69vmin;
   animation: wingBottomFlap1 2s linear infinite;
   overflow: hidden;
 }
@@ -199,9 +199,9 @@ html, body {
   left: 55%;
   top: -30%;
   border-radius: 50%;
-  box-shadow: -0.69vmin 0.69vmin gold,
-    -0.69vmin 0.69vmin 0 .69vmin green,
-    -.69vmin .69vmin 0 0.69vmin teal
+  box-shadow: -1.69vmin 1.69vmin gold,
+    -1.69vmin 1.69vmin 0 1.69vmin green,
+    -1.69vmin 1.69vmin 0 1.69vmin teal
 }
 
 .wing-bottom::after {
@@ -212,9 +212,9 @@ html, body {
   left: 15%;
   border-radius: 50%;
   box-shadow: 
-    .69vmin 0.69vmin 0 -0.69vmin, 
-    6.9vmin 0.69vmin 0 -0.69vmin gold,
-    6.9vmin 6.9vmin 0 -0.69vmin gold,
-    6.9vmin -6.9vmin 0 -0.69vmin,
-    6.9vmin -6.9vmin 0 -0.69vmin gold
+    1.69vmin 1.69vmin 0 -1.69vmin, 
+    1.69vmin 1.69vmin 0 -1.69vmin gold,
+    1.69vmin 1.69vmin 0 -1.69vmin gold,
+    1.69vmin -1.69vmin 0 1.69vmin teal,
+    1.69vmin -1.69vmin 0 -1.69vmin gold
 }
