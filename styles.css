@@ -201,7 +201,7 @@ html, body {
   border-radius: 50%;
   box-shadow: -0.69vmin 0.69vmin gold,
     -0.69vmin 0.69vmin 0 .69vmin green,
-    -.69vmin .69vmin 0 0.69vmin gold
+    -.69vmin .69vmin 0 0.69vmin teal
 }
 
 .wing-bottom::after {
