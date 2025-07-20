@@ -199,22 +199,22 @@ html, body {
   left: 55%;
   top: -30%;
   border-radius: 50%;
-  box-shadow: -1vmin 0.5vmin,
-    -3vmin 2vmin 0 1vmin green,
-    -3vmin 3vmin 0 1.5vmin
+  box-shadow: -0.69vmin 0.69vmin gold,
+    -0.69vmin 0.69vmin 0 .69vmin green,
+    -.69vmin .69vmin 0 0.69vmin gold
 }
 
 .wing-bottom::after {
   width: 3vmin;
   height: 3vmin;
   background: white;
-  top: 70%;
+  top: 69%;
   left: 15%;
   border-radius: 50%;
   box-shadow: 
-    2vmin 2vmin 0 -0.5vmin, 
-    2.75vmin -0.5vmin 0 -0.5vmin gold,
-    4.25vmin 1.5vmin 0 -0.75vmin gold,
-    11vmin -10vmin 0 1vmin,
-    15vmin -12vmin 0 -0.5vmin gold;
+    .69vmin 0.69vmin 0 -0.69vmin, 
+    6.9vmin 0.69vmin 0 -0.69vmin gold,
+    6.9vmin 6.9vmin 0 -0.69vmin gold,
+    6.9vmin -6.9vmin 0 -0.69vmin,
+    6.9vmin -6.9vmin 0 -0.69vmin gold
 }
