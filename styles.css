@@ -15,7 +15,7 @@ html, body {
   margin-top: -69px;
   margin-left: 69px;
 
-  animation-name: moveObject; /* The name of your keyframes rule */
+  animation-name: moveButterfly; /* The name of your keyframes rule */
   animation-duration: 4s; /* How long the animation takes to complete one cycle */
   animation-iteration-count: infinite; /* How many times the animation repeats (infinite for continuous) */
   animation-timing-function: ease-in-out; /* The speed curve of the animation */
