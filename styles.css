@@ -7,7 +7,7 @@ html, body {
 /*   animation: none !important; */
 }
 
-.cartoon {
+.butterfly {
   position: absolute;
   width: 69vmin;
   height: 69vmin;
@@ -16,7 +16,7 @@ html, body {
   margin-left: 69px;
 }
 
-.cartoon div {
+.butterfly div {
   position: absolute;
   box-sizing: border-box;
 }
@@ -38,7 +38,7 @@ html, body {
 }
 
 /****/
-.cartoon {
+.butterfly {
   --body: #cddc39;
 }
 
