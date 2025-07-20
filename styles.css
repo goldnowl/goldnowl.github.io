@@ -181,7 +181,7 @@ html, body {
   transform: rotate(55deg);
   top: 59%;
   left: 27.5%;
-  box-shadow: inset inset 1.69vmin -1.69vmin 0 1.69vmin;
+  box-shadow: inset 1.69vmin -1.69vmin 0 1.69vmin;
   animation: wingBottomFlap1 2s linear infinite;
   overflow: hidden;
 }
