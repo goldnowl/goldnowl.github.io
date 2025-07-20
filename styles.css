@@ -44,10 +44,10 @@ html, body {
 
 .antenna, 
 .body {
-  width: 4%;
-  height: 4%;
+  width: 3%;
+  height: 3%;
   background: var(--body);
-  top: 40%;
+  top: 31%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
