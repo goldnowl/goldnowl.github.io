@@ -49,7 +49,7 @@ html, body {
   background: var(--body);
   top: 31%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-51%, -51%);
 }
 
 .body::before {
@@ -81,9 +81,9 @@ html, body {
 .antenna::before {
   width: 150%;
   height: 350%;
-  border-radius: 50%;
+  border-radius: 69%;
   left: 80%;
-  bottom: 20%;
+  bottom: 19%;
   border: 0.25vmin solid transparent;
   border-left: 0.5vmin solid var(--body);
   transform: rotate(20deg);
