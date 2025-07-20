@@ -175,7 +175,7 @@ html, body {
 .wing-bottom {
   width: 28%;
   height: 40%;
-  background: linear-gradient(95deg, white, green);
+  background: linear-gradient(95deg, gold, green);
   border-radius: 100% / 125% 125% 70% 50%;
   transform-origin: right top;
   transform: rotate(55deg);
