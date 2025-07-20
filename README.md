@@ -32,7 +32,7 @@
 Concern for Good for Others is Necessary to Live a Complete Life 🍀
 ```
 
-<div class="cartoon hb">
+<div class="butterfly hb">
   <div class="wing-bottom ha hb"></div>
   <div class="wing-top ha hb">
     <div class="dots r"></div>
