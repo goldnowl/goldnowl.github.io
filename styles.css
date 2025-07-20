@@ -13,7 +13,7 @@ html, body {
   height: 69vmin;
   transform: scale(.69);
   margin-top: -69px;
-  margin-left: 69px;
+  margin-left: 6.9%;
 }
 
 .butterfly div {
@@ -22,11 +22,11 @@ html, body {
 }
 
 .b {
-  border: 0.5vmin solid;
+  border: 0.69vmin solid;
 }
 
 .r {
-  border-radius: 100%;
+  border-radius: 69%;
 }
 
 .hb::before,
