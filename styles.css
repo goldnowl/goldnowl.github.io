@@ -14,6 +14,11 @@ html, body {
   transform: scale(.3);
   margin-top: -69px;
   margin-left: 69px;
+
+  animation-name: moveObject; /* The name of your keyframes rule */
+  animation-duration: 4s; /* How long the animation takes to complete one cycle */
+  animation-iteration-count: infinite; /* How many times the animation repeats (infinite for continuous) */
+  animation-timing-function: ease-in-out; /* The speed curve of the animation */
 }
 
 .butterfly div {
@@ -217,4 +222,16 @@ html, body {
     4.25vmin 1.5vmin 0 -0.75vmin gold,
     11vmin -10vmin 0 1vmin,
     15vmin -12vmin 0 -0.5vmin gold;
+}
+
+@keyframes moveButterfly {
+  0% {
+    transform: translate(0, 0); /* Starting position */
+  }
+  50% {
+    transform: translate(200px, 50px); /* Intermediate position */
+  }
+  100% {
+    transform: translate(0, 0); /* Ending position (back to start) */
+  }
 }
