@@ -107,7 +107,7 @@ html, body {
 }
 
 .wing-top {
-  top: 3%;
+  top: .69%;
   width: 50%;
   height: 45%;
   left: -0.125%;
@@ -116,8 +116,8 @@ html, body {
   transform-origin: right bottom;
   transform: rotate(-12deg);
   box-shadow: 
-    inset 3.5vmin 1.5vmin 0 1vmin,
-    inset -0.5vmin 0 0 1vmin;
+    inset 6.9vmin .69vmin 0 .69vmin,
+    inset -.69vmin 0 0 .69vmin;
   animation: wingTopFlap1 2s linear infinite;
   overflow: hidden;
 }
@@ -125,11 +125,11 @@ html, body {
 .wing-top::after {
   width: 120%;
   height: 90%;
-  border-radius: 50%;
-  transform: rotate(35deg);
-  left: 30%;
-  top: -5%;
-  box-shadow: inset 1vmin -2vmin;
+  border-radius: 69%;
+  transform: rotate(31deg);
+  left: 31%;
+  top: -6.9%;
+  box-shadow: inset .69vmin -.69vmin;
 }
 
 .wing-top::before {
@@ -138,7 +138,7 @@ html, body {
   transform: rotate(0deg);
   top: 69%;
   border-radius: 69% 69% 69% 69%;
-  box-shadow: -1vmin -0.25vmin 0 1.5vmin;
+  box-shadow: -.69vmin -0.69vmin 0 .69vmin;
 }
 
 .wing-top ~ .wing-top {
