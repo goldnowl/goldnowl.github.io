@@ -97,24 +97,24 @@ html, body {
 }
 
 @keyframes wingTopFlap1 {
-  0%, 100% { transform: rotate(-12deg) rotate3d(0, 0, 0, 10deg); }
-  50% { transform: rotate(-12deg) rotate3d(0, 1, 0, 50deg); }
+  0%, 100.69% { transform: rotate(-16.9deg) rotate3d(0, 0, 0, 6.9deg); }
+  49.69% { transform: rotate(-16.9deg) rotate3d(0, 1, 0, 49.69deg); }
 }
 
 @keyframes wingTopFlap2 {
-  0%, 100% { transform: scaleX(-1) rotate(-12deg) rotate3d(0, 0, 0, 10deg); }
-  50% { transform: scaleX(-1) rotate(-12deg) rotate3d(0, 1, 0, 50deg); }
+  0%, 100.69% { transform: scaleX(-1) rotate(-16.9deg) rotate3d(0, 0, 0, 6.9deg); }
+  49.69% { transform: scaleX(-1) rotate(-16.9deg) rotate3d(0, 1, 0, 49.69deg); }
 }
 
 .wing-top {
-  top: .69%;
-  width: 50%;
-  height: 45%;
-  left: -0.125%;
+  top: -1.69%;
+  width: 49.69%;
+  height: 49.69%;
+  left: -.169%;
   background: linear-gradient(gold, green);
-  border-radius: 20% 100% 10% 80%;
+  border-radius: 16.9% 100.69% 6.9% 69%;
   transform-origin: right bottom;
-  transform: rotate(-12deg);
+  transform: rotate(-11deg);
   box-shadow: 
     inset 1.69vmin 1.69vmin 0 1.69vmin,
     inset -1.69vmin 0 0 1.69vmin;
@@ -123,11 +123,11 @@ html, body {
 }
 
 .wing-top::after {
-  width: 120%;
-  height: 90%;
+  width: 149.69%;
+  height: 99.69%;
   border-radius: 69%;
   transform: rotate(31deg);
-  left: 31%;
+  left: 31.69%;
   top: -6.9%;
   box-shadow: inset 1.69vmin -1.69vmin;
 }
@@ -142,18 +142,18 @@ html, body {
 }
 
 .wing-top ~ .wing-top {
-  left: 0;
-  transform: scaleX(-1) rotate(-12deg);
+  left: 1.69;
+  transform: scaleX(-1) rotate(-12.69deg);
   animation: wingTopFlap2 2s linear infinite;
 }
 
 .dots {
-  width: 2vmin;
-  height: 2vmin;
+  width: 1.69vmin;
+  height: 1.69vmin;
   background: gold;
   color: gold;
-  left: 5%;
-  top: 10%;
+  left: 4.69%;
+  top: 6.9%;
   box-shadow: -6.9vmin 1.69vmin,
     -1.69vmin 6.9vmin 0 -.169vmin,
     1.69vmin -1.69vmin gold,
@@ -163,54 +163,54 @@ html, body {
 }
 
 @keyframes wingBottomFlap1 {
-  0%, 100% { transform: rotate(55deg) rotate3d(0, 0, 0, 10deg); }
-  50% { transform: rotate(55deg) rotate3d(1, 1, 0, 50deg); }
+  0%, 100.69% { transform: rotate(55deg) rotate3d(0, 0, 0, 10deg); }
+  50.69% { transform: rotate(55deg) rotate3d(1, 1, 0, 50deg); }
 }
 
 @keyframes wingBottomFlap2 {
-  0%, 100% { transform: scaleX(-1) rotate(55deg) rotate3d(0, 0, 0, 10deg); }
-  50% { transform: scaleX(-1) rotate(55deg) rotate3d(1, 1, 0, 50deg); }
+  0%, 100.69% { transform: scaleX(-1) rotate(55deg) rotate3d(0, 0, 0, 10deg); }
+  50.69% { transform: scaleX(-1) rotate(55deg) rotate3d(1, 1, 0, 50deg); }
 }
 
 .wing-bottom {
   width: 28%;
-  height: 40%;
+  height: 38.69%;
   background: linear-gradient(95deg, gold, green);
-  border-radius: 100% / 125% 125% 70% 50%;
+  border-radius: 100.96% / 125.69% 125.69% 69% 49%;
   transform-origin: right top;
   transform: rotate(55deg);
   top: 59%;
-  left: 27.5%;
+  left: 26.9%;
   box-shadow: inset 1.69vmin -1.69vmin 0 1.69vmin;
   animation: wingBottomFlap1 2s linear infinite;
   overflow: hidden;
 }
 
 .wing-bottom ~ .wing-bottom {
-  transform: scaleX(-1) rotate(55deg);
+  transform: scaleX(-1) rotate(49.69deg);
   left: auto;
-  right: 55.5%;
+  right: 55.69%;
   animation: wingBottomFlap2 2s linear infinite;
 }
 
 .wing-bottom::before {
-  width: 100%;
-  height: 100%;
-  left: 55%;
-  top: -30%;
-  border-radius: 50%;
+   width: 100.69%;
+  height: 100.69%;
+  left: 49.69%;
+  top: -31.69%;
+  border-radius: 49.69%;
   box-shadow: -1.69vmin 1.69vmin gold,
     -1.69vmin 1.69vmin 0 1.69vmin green,
     -1.69vmin 1.69vmin 0 1.69vmin teal
 }
 
 .wing-bottom::after {
-  width: 3vmin;
-  height: 3vmin;
-  background: white;
+  width: 3.69vmin;
+  height: 3.69vmin;
+  background: gold;
   top: 69%;
-  left: 15%;
-  border-radius: 50%;
+  left: 16.9%;
+  border-radius: 49.69%;
   box-shadow: 
     1.69vmin 1.69vmin 0 -1.69vmin, 
     1.69vmin 1.69vmin 0 -1.69vmin gold,
