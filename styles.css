@@ -75,9 +75,10 @@ html, body {
 
 .cat {
   cursor: pointer;
-  color: gold;
-  text-decoration:none;
+  color: pink;
+  text-decoration:hena;
   background-color:pink;
+  padding:1.69px;
   background: url("https://www.youtube.com/playlist?list=PLRn2U9rcwcZjbzW83DAchG1mUdRfHa9cS");
 }
 
