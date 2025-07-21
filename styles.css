@@ -154,12 +154,12 @@ html, body {
   color: gold;
   left: 4.69%;
   top: 6.9%;
-  box-shadow: -6.9vmin 1.69vmin,
+  box-shadow: -6.9vmin 1.69vmin gold,
     -1.69vmin 6.9vmin 0 -.169vmin,
     1.69vmin -1.69vmin gold,
     1.69vmin -6.9vmin 0 -1.69vmin,
-    16.9vmin 6.9vmin 0 1.69vmin teal,
-    6.9vmin 0 1.69vmin
+    6.9vmin 6.9vmin 0 1.69vmin teal,
+    4.369vmin -1.69vmin  gold
 }
 
 @keyframes wingBottomFlap1 {
