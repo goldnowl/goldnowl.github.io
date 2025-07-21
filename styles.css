@@ -73,15 +73,6 @@ html, body {
     3.14vmin -6.9vmin 0 -1.69vmin var(--body);
 }
 
-.cat {
-  cursor: pointer;
-  color: pink;
-  text-decoration:hena;
-  background-color:pink;
-  padding:1.69px;
-  background: url("https://www.youtube.com/playlist?list=PLRn2U9rcwcZjbzW83DAchG1mUdRfHa9cS");
-}
-
 .antenna::after,
 .antenna::before {
   width: 169%;
@@ -160,6 +151,15 @@ Aromantic Team Making Method :DD:
 4.  Add a quarter coin sized shaved ginger, add 3-4 cloves of cardamom (chew or bite)
 5.  Let it simmer on low flame until it starts to smell gOOd. Enjoy! 
 */
+
+.cat {
+  cursor: pointer;
+  color: pink;
+  text-decoration:hena;
+  background-color:pink;
+  padding:1.69px;
+  background: url("https://www.youtube.com/playlist?list=PLRn2U9rcwcZjbzW83DAchG1mUdRfHa9cS");
+}
 
 .dots {
   width: 1.69vmin;
