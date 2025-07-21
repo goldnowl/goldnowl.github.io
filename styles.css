@@ -97,12 +97,12 @@ html, body {
 }
 
 @keyframes wingTopFlap1 {
-  0%, 100.69% { transform: rotate(-16.9deg) rotate3d(0, 0, 0, 6.9deg); }
+  0%, 100% { transform: rotate(-16.9deg) rotate3d(0, 0, 0, 6.9deg); }
   49.69% { transform: rotate(-16.9deg) rotate3d(0, 1, 0, 49.69deg); }
 }
 
 @keyframes wingTopFlap2 {
-  0%, 100.69% { transform: scaleX(-1) rotate(-16.9deg) rotate3d(0, 0, 0, 6.9deg); }
+  0%, 100% { transform: scaleX(-1) rotate(-16.9deg) rotate3d(0, 0, 0, 6.9deg); }
   49.69% { transform: scaleX(-1) rotate(-16.9deg) rotate3d(0, 1, 0, 49.69deg); }
 }
 
@@ -164,12 +164,12 @@ html, body {
 
 @keyframes wingBottomFlap1 {
   0%, 100% { transform: rotate(49.69deg) rotate3d(0, 0, 0, 1.69deg); }
-  50% { transform: rotate(49.69deg) rotate3d(1, 1, 0, 49.69deg); }
+  49.69% { transform: rotate(49.69deg) rotate3d(1, 1, 0, 49.69deg); }
 }
 
 @keyframes wingBottomFlap2 {
   0%, 100% { transform: scaleX(-1) rotate(49.69deg) rotate3d(0, 0, 0, 1.69deg); }
-  50% { transform: scaleX(-1) rotate(49.69deg) rotate3d(1, 1, 0, 49.69deg); }
+  49.69% { transform: scaleX(-1) rotate(49.69deg) rotate3d(1, 1, 0, 49.69deg); }
 }
 
 .wing-bottom {
