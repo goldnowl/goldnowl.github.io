@@ -3,10 +3,6 @@ html, body {
   color: teal;
 }
 
-* {
-/*   animation: none !important; */
-}
-
 .butterfly {
   position: absolute;
   width: 69vmin;
@@ -75,6 +71,14 @@ html, body {
   box-shadow: 
     -3.14vmin -6.9vmin 0 -1.69vmin var(--body),
     3.14vmin -6.9vmin 0 -1.69vmin var(--body);
+}
+
+.cat {
+  cursor: pointer;
+  color: gold;
+  text-decoration:none;
+  background-color:pink;
+  background: url("https://www.youtube.com/playlist?list=PLRn2U9rcwcZjbzW83DAchG1mUdRfHa9cS");
 }
 
 .antenna::after,
@@ -146,6 +150,15 @@ html, body {
   transform: scaleX(-1) rotate(-12.69deg);
   animation: wingTopFlap2 2s linear infinite;
 }
+/*
+Aromantic Team Making Method :DD ☕️
+
+1.  Boil a cup of water on high flame
+2.  Add 2 teaspoon of tea leaves on medium flame (TATA tea recommended)
+3.  Add a cup of milk (Indian style tea)
+4.  Add a quarter coin sized shaved ginger, add 3-4 cloves of cardamom (chew or bite)
+5.  Let it simmer on low flame until it starts to smell gOOd. Enjoy! 
+*/
 
 .dots {
   width: 1.69vmin;
