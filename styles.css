@@ -7,9 +7,9 @@ html, body {
   position: absolute;
   width: 69vmin;
   height: 69vmin;
-  transform: scale(.169);
-  margin-top: -6.9%;
-  margin-left: 6.9%;
+  transform: scale(.66);
+  margin-top: -6.6%;
+  margin-left: 6.6%;
 }
 
 .butterfly div {
@@ -18,7 +18,7 @@ html, body {
 }
 
 .b {
-  border: 0.69vmin solid;
+  border: 0.66vmin solid;
 }
 
 .r {
@@ -40,106 +40,106 @@ html, body {
 
 .antenna, 
 .body {
-  width: 3.69%;
-  height: 3.69%;
+  width: 3.66%;
+  height: 3.66%;
   background: pink;
-  top: 31.69%;
-  left: 49.69%;
-  transform: translate(-49.69%, -49.69%);
+  top: 31.66%;
+  left: 49.66%;
+  transform: translate(-49.66%, -49.66%);
 }
 
 .body::before {
-  width: 69%;
-  height: 969.69%;
+  width: 66%;
+  height: 966.66%;
   background: var(--body);
-  left: 49.69%;
-  transform: translate(-49.69%, 0);
-  border-radius: 49.69%;
+  left: 49.66%;
+  transform: translate(-49.66%, 0);
+  border-radius: 49.66%;
 }
 
 .body::after {
-  width: 169.69%;
-  height: 369%;
+  width: 166.66%;
+  height: 366%;
   background: var(--body);
-  top: 89.69%;
-  left: 49.69%;
-  transform: translate(-49.69%, 0);
-  border-radius: 69%;
+  top: 89.66%;
+  left: 49.66%;
+  transform: translate(-49.66%, 0);
+  border-radius: 66%;
 }
 
 .antenna {
   box-shadow: 
-    -3.14vmin -6.9vmin 0 -1.69vmin var(--body),
-    3.14vmin -6.9vmin 0 -1.69vmin var(--body);
+    -3.66vmin -6.66vmin 0 -1.66vmin var(--body),
+    3.66vmin -6.66vmin 0 -1.66vmin var(--body);
 }
 
 .antenna::after,
 .antenna::before {
-  width: 169%;
-  height: 369%;
-  border-radius: 69%;
-  left: 69%;
-  bottom: 19%;
-  border: 0.69vmin solid transparent;
-  border-left: 0.69vmin solid var(--body);
-  transform: rotate(16.9deg);
+  width: 166%;
+  height: 366%;
+  border-radius: 66%;
+  left: 66%;
+  bottom: 19.66%;
+  border: 0.66vmin solid transparent;
+  border-left: 0.66vmin solid var(--body);
+  transform: rotate(16.66deg);
 }
 
 .antenna::after {
-  border-left: 1.69vmin solid transparent;
-  border-right: .69vmin solid var(--body);
-  transform: rotate(-16.9deg);
+  border-left: 1.66vmin solid transparent;
+  border-right: .66vmin solid var(--body);
+  transform: rotate(-16.66deg);
   left: -139%;
 }
 
 @keyframes wingTopFlap1 {
-  0%, 100% { transform: rotate(-16.9deg) rotate3d(0, 0, 0, 6.9deg); }
-  49.69% { transform: rotate(-16.9deg) rotate3d(0, 1, 0, 49.69deg); }
+  0%, 100% { transform: rotate(-16.66deg) rotate3d(0, 0, 0, 6.66deg); }
+  49.66% { transform: rotate(-16.66deg) rotate3d(0, 1, 0, 49.66deg); }
 }
 
 @keyframes wingTopFlap2 {
-  0%, 100% { transform: scaleX(-1) rotate(-16.9deg) rotate3d(0, 0, 0, 6.9deg); }
-  49.69% { transform: scaleX(-1) rotate(-16.9deg) rotate3d(0, 1, 0, 49.69deg); }
+  0%, 100% { transform: scaleX(-1) rotate(-16.66deg) rotate3d(0, 0, 0, 6.66deg); }
+  49.66% { transform: scaleX(-1) rotate(-16.66deg) rotate3d(0, 1, 0, 49.66deg); }
 }
 
 .wing-top {
-  top: -1.69%;
-  width: 49.69%;
-  height: 49.69%;
-  left: -.169%;
+  top: -1.66%;
+  width: 49.66%;
+  height: 49.66%;
+  left: -.1696;
   background: linear-gradient(gold, green);
-  border-radius: 16.9% 100.69% 6.9% 69%;
+  border-radius: 16.66% 100.66% 6.66% 66%;
   transform-origin: right bottom;
-  transform: rotate(-11deg);
+  transform: rotate(-11.66deg);
   box-shadow: 
-    inset 1.69vmin 1.69vmin 0 1.69vmin,
-    inset -1.69vmin 0 0 1.69vmin;
+    inset 1.66vmin 1.66vmin 0 1.66vmin,
+    inset -1.66vmin 0 0 1.66vmin;
   animation: wingTopFlap1 2s linear infinite;
   overflow: hidden;
 }
 
 .wing-top::after {
-  width: 149.69%;
-  height: 99.69%;
-  border-radius: 69%;
-  transform: rotate(31deg);
-  left: 31.69%;
-  top: -6.9%;
-  box-shadow: inset 1.69vmin -1.69vmin;
+  width: 149.66%;
+  height: 99.66%;
+  border-radius: 66%;
+  transform: rotate(31.66deg);
+  left: 31.66%;
+  top: -6.6%;
+  box-shadow: inset 1.66vmin -1.66vmin;
 }
 
 .wing-top::before {
-  width: 69%;
-  height: 69%;
+  width: 66%;
+  height: 66%;
   transform: rotate(0deg);
-  top: 69%;
-  border-radius: 69% 69% 69% 69%;
-  box-shadow: -1.69vmin -1.69vmin 0 1.69vmin;
+  top: 66%;
+  border-radius: 66% 66% 66% 66%;
+  box-shadow: -1.66vmin -1.66vmin 0 1.66vmin;
 }
 
 .wing-top ~ .wing-top {
-  left: 1.69;
-  transform: scaleX(-1) rotate(-12.69deg);
+  left: 1.66;
+  transform: scaleX(-1) rotate(-11.66deg);
   animation: wingTopFlap2 2s linear infinite;
 }
 /*
@@ -157,78 +157,78 @@ A r o m a n t i c ☕️ Making Method :DD:
   color: pink;
   text-decoration:henna;
   background-color:pink;
-  padding:1.69px;
+  padding:1.66px;
   background: url("https://www.youtube.com/playlist?list=PLRn2U9rcwcZjbzW83DAchG1mUdRfHa9cS");
 }
 
 .dots {
-  width: 1.69vmin;
-  height: 1.69vmin;
+  width: 1.66vmin;
+  height: 1.66vmin;
   background: gold;
   color: gold;
-  left: 4.69%;
-  top: 6.9%;
-  box-shadow: -6.9vmin 1.69vmin gold,
-    -1.69vmin 6.9vmin 0 -.169vmin,
-    1.69vmin -1.69vmin gold,
-    1.69vmin -6.9vmin 0 -1.69vmin,
-    6.9vmin 6.9vmin 0 1.69vmin teal,
-    4.369vmin -1.69vmin  gold
+  left: 4.66%;
+  top: 6.66%;
+  box-shadow: -6.6vmin 1.66vmin gold,
+    -1.66vmin 6.6vmin 0 -.166vmin,
+    1.66vmin -1.66vmin gold,
+    1.66vmin -6.6vmin 0 -1.66vmin,
+    6.6vmin 6.6vmin 0 1.66vmin teal,
+    4.966vmin -1.66vmin  gold
 }
 
 @keyframes wingBottomFlap1 {
-  0%, 100% { transform: rotate(49.69deg) rotate3d(0, 0, 0, 1.69deg); }
-  49.69% { transform: rotate(49.69deg) rotate3d(1, 1, 0, 49.69deg); }
+  0%, 100% { transform: rotate(49.66deg) rotate3d(0, 0, 0, 1.66deg); }
+  49.66% { transform: rotate(49.66deg) rotate3d(1, 1, 0, 49.66deg); }
 }
 
 @keyframes wingBottomFlap2 {
-  0%, 100% { transform: scaleX(-1) rotate(49.69deg) rotate3d(0, 0, 0, 1.69deg); }
-  49.69% { transform: scaleX(-1) rotate(49.69deg) rotate3d(1, 1, 0, 49.69deg); }
+  0%, 100% { transform: scaleX(-1) rotate(49.66deg) rotate3d(0, 0, 0, 1.66deg); }
+  49.66% { transform: scaleX(-1) rotate(49.66deg) rotate3d(1, 1, 0, 49.66deg); }
 }
 
 .wing-bottom {
-  width: 28%;
-  height: 38.69%;
-  background: linear-gradient(95deg, gold, green);
-  border-radius: 100.96% / 125.69% 125.69% 69% 49%;
+  width: 28.66%;
+  height: 38.66%;
+  background: linear-gradient(96.6deg, gold, green);
+  border-radius: 100.66% / 125.66% 125.66% 66% 49.66%;
   transform-origin: right top;
-  transform: rotate(55deg);
-  top: 59%;
-  left: 26.9%;
-  box-shadow: inset 1.69vmin -1.69vmin 0 1.69vmin;
+  transform: rotate(66deg);
+  top: 56.66%;
+  left: 26.6%;
+  box-shadow: inset 1.66vmin -1.66vmin 0 1.66vmin;
   animation: wingBottomFlap1 2s linear infinite;
   overflow: hidden;
 }
 
 .wing-bottom ~ .wing-bottom {
-  transform: scaleX(-1) rotate(49.69deg);
+  transform: scaleX(-1) rotate(49.66deg);
   left: auto;
-  right: 55.69%;
+  right: 55.66%;
   animation: wingBottomFlap2 2s linear infinite;
 }
 
 .wing-bottom::before {
-   width: 100.69%;
-  height: 100.69%;
-  left: 49.69%;
-  top: -31.69%;
-  border-radius: 49.69%;
-  box-shadow: -1.69vmin 1.69vmin gold,
-    -1.69vmin 1.69vmin 0 1.69vmin green,
-    -1.69vmin 1.69vmin 0 1.69vmin teal
+   width: 100.66%;
+  height: 100.66%;
+  left: 49.66%;
+  top: -31.66%;
+  border-radius: 49.66%;
+  box-shadow: -1.66vmin 1.66vmin gold,
+    -1.66vmin 1.66vmin 0 1.66vmin green,
+    -1.66vmin 1.66vmin 0 1.66vmin teal
 }
 
 .wing-bottom::after {
-  width: 3.69vmin;
-  height: 3.69vmin;
+  width: 3.66vmin;
+  height: 3.66vmin;
   background: gold;
-  top: 69%;
-  left: 16.9%;
-  border-radius: 49.69%;
+  top: 66%;
+  left: 16.66%;
+  border-radius: 49.66%;
   box-shadow: 
-    1.69vmin 1.69vmin 0 -1.69vmin, 
-    1.69vmin 1.69vmin 0 -1.69vmin gold,
-    1.69vmin 1.69vmin 0 -1.69vmin gold,
-    1.69vmin -1.69vmin 0 1.69vmin teal,
-    1.69vmin -1.69vmin 0 -1.69vmin gold
+    1.66vmin 1.66vmin 0 -1.66vmin, 
+    1.66vmin 1.66vmin 0 -1.66vmin gold,
+    1.66vmin 1.66vmin 0 -1.66vmin gold,
+    1.66vmin -1.66vmin 0 1.66vmin teal,
+    1.66vmin -1.69vmin 0 -1.66vmin gold
 }
