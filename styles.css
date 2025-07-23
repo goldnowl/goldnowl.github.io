@@ -5,11 +5,11 @@ html, body {
 
 .butterfly {
   position: absolute;
-  width: 69vmin;
-  height: 69vmin;
-  transform: scale(.166);
-  margin-top: -6.6%;
-  margin-left: 6.6%;
+  width: 66vmin;
+  height: 66vmin;
+  transform: scale(.1166);
+  margin-top: 4.963%;
+  margin-left: 6.66%;
 }
 
 .butterfly div {
@@ -35,7 +35,7 @@ html, body {
 
 /****/
 .butterfly {
-  --body: #cddc39;
+  --body: #36DD39;
 }
 
 .antenna, 
