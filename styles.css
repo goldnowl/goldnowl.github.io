@@ -1,3 +1,7 @@
+.owl {
+  --body: #36AA3046;
+}
+
 html, body {
   overflow: auto;  
   color: teal;
