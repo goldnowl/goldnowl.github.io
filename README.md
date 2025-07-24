@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/fb5fdab0-c773-430a-af68-d734e25bba6c" width="100">
+<img class="owl" src="https://github.com/user-attachments/assets/fb5fdab0-c773-430a-af68-d734e25bba6c" width="100">
 
 
 ##### Hello, 🌍
