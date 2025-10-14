@@ -7,7 +7,7 @@
       <div class='feet right'></div>
       <div class='feather'></div>
     </div>
-    <div class='head'>
+    <div class='ohead'>
       <div class='oeyes'>
         <div class='beak'></div>
         <div class='oeye'>
