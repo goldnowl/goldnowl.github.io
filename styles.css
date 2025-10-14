@@ -247,10 +247,10 @@ A r o m a n t i c ☕️ Making Method :DD:
   --c2: #EEEEEE;
   font-size: 0.6vmin;
   width: 111em;
-  margin-top: 10em;
+  margin-top: 5%;
   aspect-ratio: 1;
   position: absolute;
-  transform: scale(.15);
+  transform: scale(.20);
   /* Added float animation */
   /*animation: float 6s ease-in-out infinite;*/
   
