@@ -250,9 +250,9 @@ A r o m a n t i c ☕️ Making Method :DD:
   margin-top: 15em;
   aspect-ratio: 1;
   position: relative;
-  
+  transform: scale(.20);
   /* Added float animation */
-  animation: float 6s ease-in-out infinite;
+  /*animation: float 6s ease-in-out infinite;*/
   
   *, *::before, *::after {
     position: absolute;
