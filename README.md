@@ -1,4 +1,4 @@
-<p></p>
+<p>
   <div id="owl" class='owl'>
     <div class='obody'>
       <div class='owing'></div>
@@ -19,7 +19,7 @@
       </div>
     </div>
   </div>
-<p></p>
+</p>
 
 ##### Hello, 🌍
 
