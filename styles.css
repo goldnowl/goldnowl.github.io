@@ -8,6 +8,10 @@ html, body {
 /* flying owl */
 
 .owl {
+  --body: #396C3046;
+}
+
+.owl {
   position: relative;
   margin: 40px auto 0;
   width: 200px;
