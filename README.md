@@ -45,3 +45,23 @@ Concern for Good for Others is Necessary to Live a Complete Life 🍀
   <div class="antenna r cat ha hb"></div>
 </div>
 
+<article role="img" aria-labelledby="alt">
+    <div class="body">
+        <div class="arm left-arm"></div>
+        <div class="arm right-arm"></div>
+        <div class="leg left-leg"></div>
+        <div class="leg right-leg"></div>
+    </div>
+    <div class="ear left-ear"></div>
+    <div class="ear right-ear"></div>
+    <div class="hair-back"></div>
+    <div class="head">
+        <div class="hair"></div>
+        <div class="cheek left-cheek"></div>
+        <div class="cheek right-cheek"></div>
+        <div class="eye left-eye"></div>
+        <div class="eye right-eye"></div>
+        <div class="mouth"></div>
+        <div class="nose"></div>
+    </div>
+</article>
