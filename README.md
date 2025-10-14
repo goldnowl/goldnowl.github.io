@@ -45,7 +45,7 @@ Concern for Good for Others is Necessary to Live a Complete Life 🍀
   <div class="antenna r cat ha hb"></div>
 </div>
 
-<div class="article" role="img" aria-labelledby="alt">
+<div class="bunny" role="img" aria-labelledby="alt">
     <div class="body">
         <div class="arm left-arm"></div>
         <div class="arm right-arm"></div>
