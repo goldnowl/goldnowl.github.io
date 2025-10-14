@@ -81,14 +81,14 @@ html, body {
   border-left: 50px solid transparent;
   content: ''; 
 }
-.head {
+.ohead {
   position: absolute;
   width: 160px;
   height: 80px;
   border-radius: 80px / 40px;
   background: #DAA520; /* CHANGED TO DARKER GOLD */
 }
-.head::before {
+.ohead::before {
   position: absolute;
   top: 0px;
   left: 15px;
@@ -101,7 +101,7 @@ html, body {
   content: ''; 
   -webkit-transform: rotate(-15deg);
 }
-.head::after {
+.ohead::after {
   position: absolute;
   top: 0;
   right: 18px;
@@ -123,7 +123,7 @@ html, body {
   border-radius: 80px / 50px;
   background: #FFD700; /* CHANGED TO PRIMARY GOLD */
 }
-.wing {
+.owing {
   position: absolute;
   top: 0;
   left: -20px;
@@ -136,13 +136,13 @@ html, body {
   transition: all 0.5s ease;
 }
 
-.wing:nth-child(2){
+.owing:nth-child(2){
   left: 130px;
   border-radius: 0 50px;
    -webkit-transform-origin: 20px 10px;
   -webkit-transform: rotate(20deg);
 }
-.feet {
+.ofeet {
   position: absolute;
   bottom: -5px;
   left: 50px;
@@ -152,7 +152,7 @@ html, body {
   background: #A0522D; /* CHANGED TO SIENNA/BROWN */
   -webkit-transform: rotate(10deg);
 }
-.feet::before {
+.ofeet::before {
   position: absolute;
   bottom: 0;
   left: -6px;
@@ -163,7 +163,7 @@ html, body {
   background: #A0522D; /* CHANGED TO SIENNA/BROWN */
   content: '';
 }
-.feet::after {
+.ofeet::after {
   position: absolute;
   bottom: 0;
   left: 6px;
@@ -174,11 +174,11 @@ html, body {
   background: #A0522D; /* CHANGED TO SIENNA/BROWN */
   content: '';
 }
-.feet.right{
+.ofeet.right{
   left: 104px;
   -webkit-transform: rotate(-10deg);
 }
-.feather {
+.ofeather {
   position: absolute;
   top: 65px;
   left: 72px;
@@ -188,7 +188,7 @@ html, body {
   border-right: 7px solid transparent;
   border-left: 7px solid transparent; 
 }
-.feather::before {
+.ofeather::before {
   position: absolute;
   top: -30px;
   left: -20px;
@@ -201,7 +201,7 @@ html, body {
   content: ''; 
   -webkit-transform: rotate(5deg);
 }
-.feather::after {
+.ofeather::after {
   position: absolute;
   top: -30px;
   left: 7px;
