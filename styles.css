@@ -10,11 +10,12 @@ html, body {
 .owl {
   --body: #396C3046;
 }
-
 .owl {
-  position: relative;
-  margin: 40px auto 0;
-  width: 200px;
+  position: absolute;
+  margin: -115px;
+  width: 10%;
+  height: 10%;
+  transform: scale(.3);
 }
 .pupil {
   position: absolute;
