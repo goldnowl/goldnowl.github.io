@@ -12,7 +12,8 @@ html, body {
 }
 .owl {
   position: absolute;
-  margin: -115px;
+  margin-top: -68px;
+  margin-left: -5px;
   width: 10%;
   height: 10%;
   transform: scale(.3);
