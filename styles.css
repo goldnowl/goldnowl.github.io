@@ -241,15 +241,12 @@ A r o m a n t i c ☕️ Making Method :DD:
 --- D bunny
 */
 
-body {
-  background: #c0d0ff88; 
-}
 
-article {
+.article {
   --c1: #f0fafa;
   --c2: #d0e0f6;
   font-size: 0.6vmin;
-  width: 80em;
+  width: 111em;
   margin-top: 15em;
   aspect-ratio: 1;
   position: relative;
