@@ -1,3 +1,4 @@
+<p>
 <p></p>
 <p>
   <div id="owl" class='owl'>
@@ -22,6 +23,7 @@
   </div>
 </p>
 <p></p>
+
 ##### Hello, 🌍
 
 > I am an Ord(Søftware ∑ngineer) @ ❤️ (Silicon Valley)
@@ -85,3 +87,4 @@ Concern for Good for Others is Necessary to Live a Complete Life 🍀
         <div class="nose"></div>
     </div>
 </div>
+</p>
