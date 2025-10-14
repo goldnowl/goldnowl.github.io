@@ -1,4 +1,4 @@
-<img src="owl.jpg" alt="🦉"/>
+<p></p>
   <div id="owl" class='owl'>
     <div class='obody'>
       <div class='wing'></div>
@@ -19,7 +19,7 @@
       </div>
     </div>
   </div>
-</img>
+<p></p>
 
 ##### Hello, 🌍
 
