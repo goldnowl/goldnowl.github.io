@@ -1,11 +1,11 @@
 <p></p>
   <div id="owl" class='owl'>
     <div class='obody'>
-      <div class='wing'></div>
-      <div class='wing'></div>
-      <div class='feet'></div>
-      <div class='feet right'></div>
-      <div class='feather'></div>
+      <div class='owing'></div>
+      <div class='owing'></div>
+      <div class='ofeet'></div>
+      <div class='ofeet right'></div>
+      <div class='ofeather'></div>
     </div>
     <div class='ohead'>
       <div class='oeyes'>
