@@ -38,7 +38,7 @@ html, body {
   background: #fff;
   content: '';
 }
-.eye {
+.oeye {
   position: absolute;
   top: 10px;
   left: 10px;
@@ -47,10 +47,10 @@ html, body {
   border-radius: 45px;
   background: #fff; 
 }
-.eye:nth-child(2){
+.oeye:nth-child(2){
   left:98px;
 }
-.eyes {
+.oeyes {
   position: absolute;
   top: 10px;
   left: -20px;
@@ -59,7 +59,7 @@ html, body {
   border-radius: 55px;
   background: #FFD700; /* CHANGED TO GOLD */
 }
-.eyes::before {
+.oeyes::before {
   position: absolute;
   left: 88px;
   display: block;
