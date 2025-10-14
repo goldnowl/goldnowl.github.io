@@ -242,7 +242,7 @@ A r o m a n t i c ☕️ Making Method :DD:
 */
 
 
-.article {
+.bunny {
   --c1: #FFFFFF;
   --c2: #EEEEEE;
   font-size: 0.6vmin;
@@ -250,7 +250,7 @@ A r o m a n t i c ☕️ Making Method :DD:
   margin-top: 15em;
   aspect-ratio: 1;
   position: relative;
-  transform: scale(.20);
+  transform: scale(.15);
   /* Added float animation */
   /*animation: float 6s ease-in-out infinite;*/
   
