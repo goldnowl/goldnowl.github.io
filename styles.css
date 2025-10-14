@@ -4,6 +4,9 @@ html, body {
   overflow: auto;  
   color: teal;
 }
+ p {
+   padding: 1%;
+}
 
 /* flying owl */
 
