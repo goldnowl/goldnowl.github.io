@@ -247,9 +247,9 @@ A r o m a n t i c ☕️ Making Method :DD:
   --c2: #EEEEEE;
   font-size: 0.6vmin;
   width: 111em;
-  margin-top: 15em;
+  margin-top: 10em;
   aspect-ratio: 1;
-  position: relative;
+  position: absolute;
   transform: scale(.15);
   /* Added float animation */
   /*animation: float 6s ease-in-out infinite;*/
