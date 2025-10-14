@@ -1,5 +1,24 @@
 
-<img class="owl" src="https://github.com/user-attachments/assets/fb5fdab0-c773-430a-af68-d734e25bba6c" width="100">
+<div id="owl" class='owl'>
+  <div class='body'>
+    <div class='wing'></div>
+    <div class='wing'></div>
+    <div class='feet'></div>
+    <div class='feet right'></div>
+    <div class='feather'></div>
+  </div>
+  <div class='head'>
+    <div class='eyes'>
+      <div class='beak'></div>
+      <div class='eye'>
+        <div class='pupil'></div>
+      </div>
+      <div class='eye'>
+        <div class='pupil'></div>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 ##### Hello, 🌍
