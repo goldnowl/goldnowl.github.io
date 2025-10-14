@@ -27,7 +27,7 @@
 
 > Pool 🌊
 
-##### My Favorite Qoute
+##### My Favorite Quote
 ```
 Concern for Good for Others is Necessary to Live a Complete Life 🍀
 ```
