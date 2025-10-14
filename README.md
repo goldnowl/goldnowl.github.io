@@ -1,3 +1,4 @@
+<p></p>
 <p>
   <div id="owl" class='owl'>
     <div class='obody'>
@@ -20,7 +21,7 @@
     </div>
   </div>
 </p>
-
+<p></p>
 ##### Hello, 🌍
 
 > I am an Ord(Søftware ∑ngineer) @ ❤️ (Silicon Valley)
