@@ -218,10 +218,10 @@ html, body {
   -webkit-transform: rotate(-5deg);
 }
 
-.owl:hover .wing {
+.owl:hover .owing {
   -webkit-transform: rotate(90deg);
 }
-.owl:hover .wing:nth-child(2) {
+.owl:hover .owing:nth-child(2) {
   -webkit-transform: rotate(-90deg);
 }
 .owl:hover .head {
