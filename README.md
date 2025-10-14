@@ -8,12 +8,12 @@
       <div class='feather'></div>
     </div>
     <div class='head'>
-      <div class='eyes'>
+      <div class='oeyes'>
         <div class='beak'></div>
-        <div class='eye'>
+        <div class='oeye'>
           <div class='pupil'></div>
         </div>
-        <div class='eye'>
+        <div class='oeye'>
           <div class='pupil'></div>
         </div>
       </div>
