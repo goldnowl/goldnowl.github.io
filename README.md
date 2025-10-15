@@ -26,7 +26,7 @@
 
 ##### Hello, 🌍
 
-> I am an Ord(Søftware ∑ngineer) @ ❤️ (Silicon Valley)
+> I am Ord(Søftware ∑ngineer) @ ❤️ (Silicon Valley)
 
 ##### Education
 
