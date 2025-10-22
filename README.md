@@ -88,3 +88,27 @@ Concern for Good for Others is Necessary to Live a Complete Life 🍀
     </div>
 </div>
 <div>
+
+<div class="forest">
+	<div class="tree"></div>
+	<div class="tree">
+	</div>
+	<div class="tree">
+	</div>
+	<div class="tree">
+	</div>
+	<div class="land left"></div>
+	<div class="land right"></div>
+	<div class="mountain left"></div>
+	<div class="mountain center"></div>
+	<div class="mountain right"></div>
+
+</div>
+<div class="cloud-container">
+	<div class="cloud"></div>
+	<div class="cloud center"></div>
+	<div class="cloud"></div>
+	<div class="cloud center"></div>
+	<div class="cloud center small"></div>
+	<div class="cloud center small"></div>
+</div>
