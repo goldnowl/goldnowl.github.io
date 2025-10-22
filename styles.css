@@ -282,6 +282,7 @@ body {
   transform: scale(.149484643);
   margin-top: 4.963%;
   margin-left: 21.66%;
+  z-index: 1;
 }
 
 .butterfly div {
@@ -513,6 +514,7 @@ A r o m a n t i c ☕️ Making Method :DD:
 .bunny {
   --c1: #FFFFFF;
   --c2: #EEEEEE;
+  z-index: 1;
   font-size: 0.6vmin;
   width: 111em;
   margin-top: 5%;
@@ -946,9 +948,10 @@ A r o m a n t i c ☕️ Making Method :DD:
 .forest {
 	width: 100%;
 	height: 300px;
-	background-color: #skyblue;
-	position: relative;
+	background-color: skyblue;
+	position: absolute;
 	overflow: hidden;
+	z-index:0;
 }
 /* Land */
 .land {
