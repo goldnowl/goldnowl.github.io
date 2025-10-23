@@ -273,9 +273,7 @@ p {
   width: 66vmin;
   height: 66vmin;
   transform: scale(.149484643);
-  margin-top: 4.963%;
-  margin-left: 21.66%;
-  z-index: 1;
+  z-index: 6;
 }
 
 .butterfly div {
@@ -507,10 +505,10 @@ A r o m a n t i c ☕️ Making Method :DD:
 .bunny {
   --c1: #FFFFFF;
   --c2: #EEEEEE;
-  z-index: 1;
+  z-index: 5;
   font-size: 0.6vmin;
   width: 111em;
-  margin-top: 5%;
+  margin-left: 169px;
   aspect-ratio: 1;
   position: absolute;
   transform: scale(.196966863);
