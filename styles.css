@@ -1,6 +1,6 @@
 
 html, body {
-  overflow: auto;  
+  overflow: hidden;  
   color: teal;
   padding: 1%;
 }
@@ -949,6 +949,7 @@ A r o m a n t i c ☕️ Making Method :DD:
 	background-color: skyblue;
 	position: absolute;
 	overflow: hidden;
+	margin-top:11%;
 	z-index:0;
 }
 /* Land */
@@ -1057,6 +1058,7 @@ A r o m a n t i c ☕️ Making Method :DD:
 	position: absolute;
 	width: 400px;
 	height: 400px;
+	margin-top:2.69%;
 	z-index: 100;
 }
 .cloud {
