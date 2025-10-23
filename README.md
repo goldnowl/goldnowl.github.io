@@ -54,17 +54,7 @@
 > Concern for Good for Others is Necessary to Live a Complete Life 🍀
 
 
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-
+<p style="margin-top: 66%"></p>
 
 <div class="forest">
 	<div class="tree">
