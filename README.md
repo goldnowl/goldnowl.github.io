@@ -55,7 +55,7 @@ Concern for Good for Others is Necessary to Live a Complete Life 🍀
 ```
 
 <div class="forest">
-	<div class="tree"></div>
+	<div class="tree">
 		<div class="bunny" role="img" aria-labelledby="alt">
 		    <div class="body">
 		        <div class="arm left-arm"></div>
@@ -76,7 +76,10 @@ Concern for Good for Others is Necessary to Live a Complete Life 🍀
 		        <div class="nose"></div>
 		    </div>
 		</div>
-	<div class="tree"></div>
+	</div>
+		
+	<div class="tree"></div>		
+	<div class="tree">
 		<div class="butterfly hb">
 		  <div class="wing-bottom ha hb"></div>
 		  <div class="wing-top ha hb">
@@ -89,7 +92,7 @@ Concern for Good for Others is Necessary to Live a Complete Life 🍀
 		  <div class="body r ha hb"></div>
 		  <div class="antenna r cat ha hb"></div>
 		</div>
-	<div class="tree"></div>
+	</div>
 	
 	<div class="tree"></div>
 	<div class="land left"></div>
