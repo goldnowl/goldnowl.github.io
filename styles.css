@@ -940,8 +940,9 @@ A r o m a n t i c ☕️ Making Method :DD:
 .forest {
 	width: 89%;
 	height: 369px;
-	/* background-color: #87ceeb69; */
-	background-color: #ffffff69;
+	/* Teal + @lpha */
+	background-color: #00808066; 
+	/* background-color: #ffffff66; */
 	position: absolute;
 	border-radius:69px;
 	overflow: hidden;
@@ -976,7 +977,6 @@ A r o m a n t i c ☕️ Making Method :DD:
 	border-radius: 15px;
 	position: absolute;
 	bottom: 100px;
-	display:none;
 }
 .mountain.left {
 	left: -50px;
