@@ -65,58 +65,58 @@
 <p></p>
 <p></p>
 
-<p>
-	<div class="forest">
-		<div class="tree">
-			<div class="bunny" role="img" aria-labelledby="alt">
-			    <div class="body">
-			        <div class="arm left-arm"></div>
-			        <div class="arm right-arm"></div>
-			        <div class="leg left-leg"></div>
-			        <div class="leg right-leg"></div>
-			    </div>
-			    <div class="ear left-ear"></div>
-			    <div class="ear right-ear"></div>
-			    <div class="hair-back"></div>
-			    <div class="head">
-			        <div class="hair"></div>
-			        <div class="cheek left-cheek"></div>
-			        <div class="cheek right-cheek"></div>
-			        <div class="eye left-eye"></div>
-			        <div class="eye right-eye"></div>
-			        <div class="mouth"></div>
-			        <div class="nose"></div>
-			    </div>
+
+<div class="forest">
+	<div class="tree">
+		<div class="bunny" role="img" aria-labelledby="alt">
+			<div class="body">
+				<div class="arm left-arm"></div>
+				<div class="arm right-arm"></div>
+				<div class="leg left-leg"></div>
+				<div class="leg right-leg"></div>
 			</div>
-		</div>			
-		<div class="tree"></div>		
-		<div class="tree">
-			<div class="butterfly hb">
-			  <div class="wing-bottom ha hb"></div>
-			  <div class="wing-top ha hb">
-			    <div class="dots r"></div>
-			  </div>
-			  <div class="wing-bottom ha hb"></div>
-			  <div class="wing-top ha hb">
-			    <div class="dots r"></div>
-			  </div>
-			  <div class="body r ha hb"></div>
-			  <div class="antenna r cat ha hb"></div>
+			<div class="ear left-ear"></div>
+			<div class="ear right-ear"></div>
+			<div class="hair-back"></div>
+			<div class="head">
+				<div class="hair"></div>
+				<div class="cheek left-cheek"></div>
+				<div class="cheek right-cheek"></div>
+				<div class="eye left-eye"></div>
+				<div class="eye right-eye"></div>
+				<div class="mouth"></div>
+				<div class="nose"></div>
 			</div>
-		</div>		
-		<div class="tree"></div>
-		<div class="land left"></div>
-		<div class="land right"></div>
-		<div class="mountain left"></div>
-		<div class="mountain center"></div>
-		<div class="mountain right"></div>
-	</div>	
-	<div class="cloud-container">
-		<div class="cloud"></div>
-		<div class="cloud center"></div>
-		<div class="cloud"></div>
-		<div class="cloud center"></div>
-		<div class="cloud center small"></div>
-		<div class="cloud center small"></div>
-	</div>
-</p>
+		</div>
+	</div>			
+	<div class="tree"></div>		
+	<div class="tree">
+		<div class="butterfly hb">
+		  <div class="wing-bottom ha hb"></div>
+		  <div class="wing-top ha hb">
+			<div class="dots r"></div>
+		  </div>
+		  <div class="wing-bottom ha hb"></div>
+		  <div class="wing-top ha hb">
+			<div class="dots r"></div>
+		  </div>
+		  <div class="body r ha hb"></div>
+		  <div class="antenna r cat ha hb"></div>
+		</div>
+	</div>		
+	<div class="tree"></div>
+	<div class="land left"></div>
+	<div class="land right"></div>
+	<div class="mountain left"></div>
+	<div class="mountain center"></div>
+	<div class="mountain right"></div>
+</div>	
+<div class="cloud-container">
+	<div class="cloud"></div>
+	<div class="cloud center"></div>
+	<div class="cloud"></div>
+	<div class="cloud center"></div>
+	<div class="cloud center small"></div>
+	<div class="cloud center small"></div>
+</div>
+
