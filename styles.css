@@ -1,6 +1,6 @@
 
 html, body {
-  overflow: hidden;  
+  overflow: auto;  
   color: teal;
   padding: 1%;
 }
