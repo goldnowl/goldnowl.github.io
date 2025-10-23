@@ -272,7 +272,8 @@ p {
   position: absolute;
   width: 66vmin;
   height: 66vmin;
-  transform: scale(.149484643);
+  transform: scale(.1149484643);
+  margin-top:-111px;
   z-index: 6;
 }
 
